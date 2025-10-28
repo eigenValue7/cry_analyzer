@@ -41,3 +41,7 @@ After balanced:
 
 <img src="img/balanced_data.png" width="500"/>
 
+# RasberryPi
+
+[Here](https://github.com/eigenValue7/Interactive-Lab-Hub/tree/Fall2025/Lab%205/cry_analyzer)
+

@@ -1,9 +1,0 @@
-{
-  "validation_accuracy": 0.37974682450294495,
-  "num_samples": 391,
-  "training_samples": 312,
-  "validation_samples": 79,
-  "epochs_trained": 40,
-  "final_train_accuracy": 0.42628204822540283,
-  "final_val_accuracy": 0.37974682450294495
-}
