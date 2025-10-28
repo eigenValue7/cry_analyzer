@@ -1,0 +1,14 @@
+{
+  "sample_rate": 16000,
+  "duration": 3,
+  "n_mfcc": 40,
+  "n_mels": 128,
+  "hop_length": 512,
+  "classes": [
+    "belly_pain",
+    "burping",
+    "discomfort",
+    "hungry",
+    "tired"
+  ]
+}
